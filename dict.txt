@@ -1,0 +1,4 @@
+apple           一种水果，11
+banana          一种水果，22
+orange          酸酸甜甜，33
+red             一种颜色，中国红
